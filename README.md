@@ -3,6 +3,7 @@
 [![CI](https://github.com/gatoniel/logternary/actions/workflows/ci.yml/badge.svg)](https://github.com/gatoniel/logternary/actions/workflows/ci.yml)
 [![PyPI](https://img.shields.io/pypi/v/logternary)](https://pypi.org/project/logternary/)
 [![Python](https://img.shields.io/pypi/pyversions/logternary)](https://pypi.org/project/logternary/)
+[![Download the PDF](https://img.shields.io/badge/download-pdf-blue.svg?style=flat)](https://github.com/gatoniel/logternary-pdf/raw/main-pdf/ms.pdf)
 
 Log-ternary plots for fold-change visualization between three conditions.
 
